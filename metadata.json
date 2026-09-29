@@ -1,0 +1,6 @@
+{
+  "name": "آسانا لجستیک | Asana Log",
+  "description": "سامانه جامع و وب‌سایت رسمی شرکت نسل خلاق آسانا (آسانا لجستیک | Asana Log) - پیشرو در خدمات لجستیک یکپارچه، حمل و نقل چندوجهی، انبارداری و زنجیره تأمین در ایران و منطقه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
